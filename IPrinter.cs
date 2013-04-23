@@ -2,6 +2,8 @@
 {
     public interface IPrinter
     {
-         // interface
+         // interface  
+
+        // Añadimos mas comentarios
     }
 }
